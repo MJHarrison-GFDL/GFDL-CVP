@@ -34,3 +34,6 @@
 [submodule "src/mkmf"]
 	path = src/mkmf
 	url = https://github.com/NOAA-GFDL/mkmf.git
+[submodule "src/gfdl_ecda"]
+	path = src/gfdl_ecda
+	url = git@gitlab.gfdl.noaa.gov:matthew.harrison/gfdl_ecda.git
